@@ -6,6 +6,7 @@
 		<Description>RPN Calc Windows Desktop Application</Description>
 		<ApplicationIcon>Images\Icons\Logo.ico</ApplicationIcon>
 		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<IsPublishable>true</IsPublishable>
 	</PropertyGroup>
 
 	<ItemGroup>
